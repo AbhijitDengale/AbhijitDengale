@@ -9,4 +9,3 @@ AbhijitDengale/AbhijitDengale is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 print("hello world ")
-# this is my first code that i well write it up
